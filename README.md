@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rand</h1>
 <h3 align="center">A mechatronics student who loves space and robots</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RlNTUwYTk1MTVlNjM3ZWFkYjE4ZDgzZmJlOTNiY2M4ODk4ZDgzNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bnIzziEOCTWU7yS06B/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2e2418a667c755786ee8a3c21034b622/e590a1f08b6f5968-90/s1280x1920/c33d0cce7369310d9da1bed0291742168610df2b.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bravenewrand&label=Profile%20views&color=0e75b6&style=flat" alt="bravenewrand" /> </p>
